@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello ;) This is Vaibhavi! <br>I am a student at Savitribai Phule Pune University, 
 
-studying <br>Blockchain Technology.<br>Currently working on the Steller Journey To Mastery Program.<br><br>
+Studying <br>Blockchain Technology.<br>Currently working on the Steller Journey To Mastery Program.<br><br>
 
 
 ## 🌐 Socials:
@@ -26,4 +26,3 @@ studying <br>Blockchain Technology.<br>Currently working on the Steller Journey 
 ---
 [![](https://visitcount.itsvg.in/api?id=vaibhavi-0320&icon=3&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
