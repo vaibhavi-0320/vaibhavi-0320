@@ -13,12 +13,6 @@ Studying <br>Blockchain Technology.<br>Currently working on the Steller Journey 
 ![](https://github-readme-stats.vercel.app/api?username=vaibhavi-0320&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vaibhavi-0320&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavi-0320&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 
 ### ✍️ Daily Insight
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
