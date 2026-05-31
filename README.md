@@ -73,12 +73,6 @@ Blockchain student at SPPU. I build on-chain, Stellar/Soroban, Midnight Network 
 </td>
 </tr>
 </table>
-
-<!-- PIXEL WAVE DIVIDER -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-</div>
-
 ---
 
 ### `✦` Tech Stack
@@ -93,23 +87,6 @@ Blockchain student at SPPU. I build on-chain, Stellar/Soroban, Midnight Network 
 
 </div>
 
-<br/>
-
-<!-- PIXEL ART GHOST (actual pixel art, fits the dark aesthetic) -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" />
-&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="35"/>
-&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" />
-</div>
-
-<!-- PIXEL WAVE DIVIDER -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-</div>
-
----
 
 ### `✦` Blockchain Mastery
 
@@ -125,13 +102,6 @@ Blockchain student at SPPU. I build on-chain, Stellar/Soroban, Midnight Network 
 | `💸` DeFi / dApp Architecture | ![45%](https://geps.dev/progress/45?dangerColor=6a0dad&warningColor=9b6dff&successColor=d4aaff) | `Building` |
 
 </div>
-
-<!-- PIXEL WAVE DIVIDER -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-</div>
-
----
 
 ### `✦` Ships & Side Quests
 
@@ -194,11 +164,6 @@ Decentralized freelance escrow on Stellar/Soroban. *[→ Live](https://steller-f
 </tr>
 </table>
 
-<!-- PIXEL WAVE DIVIDER -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-</div>
-
 ---
 
 ### `✦` GitHub Stats
@@ -223,14 +188,6 @@ Decentralized freelance escrow on Stellar/Soroban. *[→ Live](https://steller-f
 
 ---
 
-</div>
-
-<!-- PIXEL WAVE DIVIDER -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-</div>
-
----
 
 <div align="center">
 
