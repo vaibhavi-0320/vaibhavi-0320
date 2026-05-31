@@ -1,22 +1,265 @@
-# 💫 About Me:
-Hello ;) This is Vaibhavi! <br>I am a student, 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d0015,30:1a0033,60:3d0080,80:1a0033,100:0d0015&section=header&text=Vaibhavi%20Agale&fontSize=42&fontColor=d4aaff&animation=fadeIn&fontAlignY=55&desc=Blockchain%20Student%20%E2%80%A2%20She%2FHer%20%E2%80%A2%20Pune%20%E2%80%A2%20Building%20Onchain&descSize=13&descAlignY=78&descColor=9966cc" width="100%"/>
+</div>
 
-Studying <br>Blockchain Technology.<br>Currently working on many different side quests<br><br>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=11&pause=1500&color=9966CC&center=true&vCenter=true&multiline=false&width=580&lines=%E2%9C%A6+Blockchain+Architecture+%26+Smart+Contracts+%E2%9C%A6;%E2%9C%A6+Solidity+%2F+Rust+%2F+Soroban+%2F+ZK+Proofs+%E2%9C%A6;%E2%9C%A6+Shipped+3+dApps+%C2%B7+2+Hackathons+%C2%B7+Still+Going+%E2%9C%A6" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavi-agale)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vaibhavi_Agale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhaviagale7799@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vaibhavi-0320&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vaibhavi-0320&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavi-0320&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- PIXEL ART DIVIDER -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+</div>
 
-### ✍️ Daily Insight
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<br/>
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### `✦` About Me
+
+```
+╭──────────────────────────────────────────────╮
+│                                              │
+│   $ whoami                                   │
+│                                              │
+│   name      →  Vaibhavi Agale                │
+│   uni       →  SPPU, Pune  🇮🇳                │
+│   major     →  Blockchain Technology         │
+│   status    →  Always building something     │
+│   coffee    →  Yes, always                   │
+│   vibe      →  Not here for small talk       │
+│                                              │
+│   > currently   = "DeFi × AI"                │
+│   > open_to     = ["Collabs", "Hackathons"]  │
+│   > ships       = 3                          │
+│   > hackathons  = 2                          │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+Blockchain student at SPPU. I build onchain — Stellar/Soroban, Midnight Network ZK proofs, full-stack dApps with React + Supabase.
+
+*Code like coffee: Functional, strong, and occasionally breaking at 2am.*
+
+</td>
+<td width="45%" valign="top">
+
+### `✦` Now
+
+![](https://img.shields.io/badge/✅_Shipped-Fintrix_AI_Invoice_Platform-2d0057?style=flat-square&labelColor=0d001a)
+
+![](https://img.shields.io/badge/🚧_Building-Vaultis_(Blockchain_Inheritance)-4B0082?style=flat-square&labelColor=0d001a)
+
+![](https://img.shields.io/badge/🔭_Stack-Next.js_+_Supabase_+_Stellar-2d0057?style=flat-square&labelColor=0d001a)
+
+![](https://img.shields.io/badge/📜_Deepening-Soroban_·_Compact_·_ZK-2d0057?style=flat-square&labelColor=0d001a)
+
+![](https://img.shields.io/badge/🌐_Exploring-DeFi_·_DePIN_·_dAI-2d0057?style=flat-square&labelColor=0d001a)
+
+![](https://img.shields.io/badge/☕_Coffee-Critical_Infrastructure-4B0082?style=flat-square&labelColor=0d001a)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d001a?style=for-the-badge&logo=linkedin&logoColor=d4aaff)](https://www.linkedin.com/in/vaibhavi-agale)
+[![GitHub](https://img.shields.io/badge/GitHub-0d001a?style=for-the-badge&logo=github&logoColor=d4aaff)](https://github.com/vaibhavi-0320)
+[![X](https://img.shields.io/badge/X-0d001a?style=for-the-badge&logo=x&logoColor=d4aaff)](https://x.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-0d001a?style=for-the-badge&logo=gmail&logoColor=d4aaff)](mailto:your@email.com)
+
+</td>
+</tr>
+</table>
+
+<!-- PIXEL ART DIVIDER -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vaibhavi-0320&icon=3&color=10)](https://visitcount.itsvg.in)
 
+### `✦` Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=solidity,rust,ts,js,py&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,supabase,tailwind,vercel&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,hardhat,nodejs&theme=dark" />
+
+</div>
+
+<!-- PIXEL ART CODING CAT -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200"/>
+</div>
+
+---
+
+### `✦` Blockchain Mastery
+
+<div align="center">
+
+| Skill | Progress | Level |
+|:------|:---------|:-----:|
+| `⛓` Blockchain Architecture | ![88%](https://geps.dev/progress/88?dangerColor=6a0dad&warningColor=9b6dff&successColor=d4aaff) | `Solid` |
+| `🌐` Stellar / Soroban | ![80%](https://geps.dev/progress/80?dangerColor=6a0dad&warningColor=9b6dff&successColor=d4aaff) | `Advanced` |
+| `📜` Smart Contracts | ![70%](https://geps.dev/progress/70?dangerColor=6a0dad&warningColor=9b6dff&successColor=d4aaff) | `Intermediate` |
+| `🦀` Rust / Soroban | ![62%](https://geps.dev/progress/62?dangerColor=6a0dad&warningColor=9b6dff&successColor=d4aaff) | `Intermediate` |
+| `🔮` ZK Proofs / Midnight | ![50%](https://geps.dev/progress/50?dangerColor=6a0dad&warningColor=9b6dff&successColor=d4aaff) | `Exploring` |
+| `💸` DeFi / dApp Architecture | ![45%](https://geps.dev/progress/45?dangerColor=6a0dad&warningColor=9b6dff&successColor=d4aaff) | `Building` |
+
+</div>
+
+<!-- PIXEL ART DIVIDER -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+</div>
+
+---
+
+### `✦` Ships & Side Quests
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**`✅` Fintrix**
+
+```
+┌─────────────────────────┐
+│  status  : LIVE         │
+│  type    : AI Finance   │
+│  stack   : Next.js      │
+│            Supabase     │
+│            Stellar      │
+│            Razorpay     │
+└─────────────────────────┘
+```
+
+AI-powered invoice financing platform. Bloomberg meets Duolingo for SME finance.
+
+</td>
+<td width="33%" valign="top">
+
+**`🚧` Vault**
+
+```
+┌─────────────────────────┐
+│  status  : IN PROGRESS  │
+│  type    : Inheritance  │
+│  chain   : Blockchain   │
+│                         │
+│  // on-chain will       │
+│  // inheritance mgmt    │
+└─────────────────────────┘
+```
+
+Blockchain-based inheritance management system — secure, trustless, onchain.
+
+</td>
+<td width="33%" valign="top">
+
+**`✅` StellarFund**
+
+```
+┌─────────────────────────┐
+│  status  : LIVE         │
+│  type    : Escrow dApp  │
+│  stack   : Rust         │
+│            React 19     │
+│            TypeScript   │
+│            Freighter    │
+└─────────────────────────┘
+```
+
+Decentralized freelance escrow on Stellar/Soroban. *[→ Live](https://steller-fund.vercel.app)*
+
+</td>
+</tr>
+</table>
+
+<!-- PIXEL ART DIVIDER -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+</div>
+
+---
+
+### `✦` GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhavi-0320&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d001a&title_color=d4aaff&icon_color=9966cc&text_color=c9b8ff&ring_color=6a0dad" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavi-0320&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&bg_color=0d001a&title_color=d4aaff&text_color=c9b8ff" height="160"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavi-0320&theme=midnight-purple&hide_border=true&background=0d001a&ring=9966cc&fire=6a0dad&currStreakLabel=d4aaff&sideLabels=c9b8ff&dates=7a5c9e" width="55%"/>
+
+</div>
+
+---
+
+### `✦` Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhavi-0320&bg_color=0d001a&color=d4aaff&line=6a0dad&point=9966cc&area=true&area_color=2d0057&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### `✦` Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavi-0320&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<!-- PIXEL ART DIVIDER -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+</div>
+
+---
+
+<div align="center">
+
+<!-- PIXEL ART OUTRO ANIMATION -->
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30" />
+&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+
+<br/><br/>
+
+```
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                                                              ║
+  ║   "The decentralized world isn't built in a day.             ║
+  ║    But I'm working on it."                                   ║
+  ║                                                              ║
+  ╚══════════════════════════════════════════════════════════════╝
+```
+
+![](https://img.shields.io/badge/Blockchain_Student-Not_Just_A_Vibe-4B0082?style=flat-square&labelColor=0d001a)
+&nbsp;
+![](https://img.shields.io/badge/Side_Quests-∞-6a0dad?style=flat-square&labelColor=0d001a)
+&nbsp;
+![](https://img.shields.io/badge/Sleep-Eventually-2d0057?style=flat-square&labelColor=0d001a)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=vaibhavi-0320&color=6a0dad&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0015,30:1a0033,60:3d0080,80:1a0033,100:0d0015&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
