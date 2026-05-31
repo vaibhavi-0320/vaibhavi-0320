@@ -8,7 +8,7 @@
 
 </div>
 
-<!-- PIXEL ART DIVIDER -->
+<!-- PIXEL WAVE DIVIDER -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </div>
@@ -26,24 +26,25 @@
 │                                              │
 │   $ whoami                                   │
 │                                              │
-│   name      →  Vaibhavi Agale                │
-│   uni       →  SPPU, Pune  🇮🇳                │
-│   major     →  Blockchain Technology         │
-│   status    →  Always building something     │
-│   coffee    →  Yes, always                   │
-│   vibe      →  Not here for small talk       │
+│   name      →  Vaibhavi Agale               │
+│   pronouns  →  She / Her                    │
+│   uni       →  SPPU, Pune  🇮🇳              │
+│   major     →  Blockchain Technology        │
+│   status    →  Always building something    │
+│   coffee    →  Yes, always                  │
+│   vibe      →  Not here for small talk      │
 │                                              │
-│   > currently   = "DeFi × AI"                │
-│   > open_to     = ["Collabs", "Hackathons"]  │
-│   > ships       = 3                          │
-│   > hackathons  = 2                          │
+│   > currently   = "DeFi × AI"               │
+│   > open_to     = ["Collabs", "Hackathons"] │
+│   > ships       = 3                         │
+│   > hackathons  = 2                         │
 │                                              │
 ╰──────────────────────────────────────────────╯
 ```
 
-Blockchain student at SPPU. I build onchain — Stellar/Soroban, Midnight Network ZK proofs, full-stack dApps with React + Supabase.
+Blockchain student at SPPU. I build on-chain, Stellar/Soroban, Midnight Network ZK proofs, full-stack dApps with React + Supabase.
 
-*Code like coffee: Functional, strong, and occasionally breaking at 2am.*
+*Code like coffee: Functional, strong, and occasionally breaking at 2 am.*
 
 </td>
 <td width="45%" valign="top">
@@ -73,7 +74,7 @@ Blockchain student at SPPU. I build onchain — Stellar/Soroban, Midnight Networ
 </tr>
 </table>
 
-<!-- PIXEL ART DIVIDER -->
+<!-- PIXEL WAVE DIVIDER -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </div>
@@ -92,9 +93,20 @@ Blockchain student at SPPU. I build onchain — Stellar/Soroban, Midnight Networ
 
 </div>
 
-<!-- PIXEL ART CODING CAT -->
+<br/>
+
+<!-- PIXEL ART GHOST (actual pixel art, fits the dark aesthetic) -->
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200"/>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" />
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="35"/>
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" />
+</div>
+
+<!-- PIXEL WAVE DIVIDER -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </div>
 
 ---
@@ -114,7 +126,7 @@ Blockchain student at SPPU. I build onchain — Stellar/Soroban, Midnight Networ
 
 </div>
 
-<!-- PIXEL ART DIVIDER -->
+<!-- PIXEL WAVE DIVIDER -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </div>
@@ -153,12 +165,12 @@ AI-powered invoice financing platform. Bloomberg meets Duolingo for SME finance.
 │  type    : Inheritance  │
 │  chain   : Blockchain   │
 │                         │
-│  // on-chain will       │
-│  // inheritance mgmt    │
+│  // Trustless onchain   │
+│  // inheritance system  │
 └─────────────────────────┘
 ```
 
-Blockchain-based inheritance management system — secure, trustless, onchain.
+Blockchain-based inheritance management — secure, trustless, and fully onchain.
 
 </td>
 <td width="33%" valign="top">
@@ -182,7 +194,7 @@ Decentralized freelance escrow on Stellar/Soroban. *[→ Live](https://steller-f
 </tr>
 </table>
 
-<!-- PIXEL ART DIVIDER -->
+<!-- PIXEL WAVE DIVIDER -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </div>
@@ -211,15 +223,9 @@ Decentralized freelance escrow on Stellar/Soroban. *[→ Live](https://steller-f
 
 ---
 
-### `✦` Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavi-0320&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
-<!-- PIXEL ART DIVIDER -->
+<!-- PIXEL WAVE DIVIDER -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </div>
@@ -228,14 +234,7 @@ Decentralized freelance escrow on Stellar/Soroban. *[→ Live](https://steller-f
 
 <div align="center">
 
-<!-- PIXEL ART OUTRO ANIMATION -->
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
-&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30" />
-&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
-
-<br/><br/>
+<br/>
 
 ```
   ╔══════════════════════════════════════════════════════════════╗
