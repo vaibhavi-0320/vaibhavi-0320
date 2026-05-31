@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello ;) This is Vaibhavi! <br>I am a student at Savitribai Phule Pune University, 
+Hello ;) This is Vaibhavi! <br>I am a student, 
 
 Studying <br>Blockchain Technology.<br>Currently working on many different side quests<br><br>
 
