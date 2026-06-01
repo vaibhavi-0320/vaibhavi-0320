@@ -26,18 +26,18 @@
 │                                              │
 │   $ whoami                                   │
 │                                              │
-│   name      →  Vaibhavi Agale               │
-│   pronouns  →  She / Her                    │
-│   uni       →  SPPU, Pune  🇮🇳              │
-│   major     →  Blockchain Technology        │
-│   status    →  Always building something    │
-│   coffee    →  Yes, always                  │
-│   vibe      →  Not here for small talk      │
+│   Name      →  Vaibhavi Agale                │
+│   Pronouns  →  She / Her                     │
+│   Uni       →  SPPU, Pune 🇮🇳                 │
+│   Major     →  Blockchain Technology         │
+│   Status    →  Always building something     │
+│   Coffee    →  Yes, always                   │
+│   Vibe      →  Not here for small talk       │
 │                                              │
-│   > currently   = "DeFi × AI"               │
-│   > open_to     = ["Collabs", "Hackathons"] │
-│   > ships       = 3                         │
-│   > hackathons  = 2                         │
+│   > currently   = "DeFi × AI"                │
+│   > open_to     = ["Collabs", "Hackathons"]  │
+│   > ships       = 3                          │
+│   > hackathons  = 2                          │
 │                                              │
 ╰──────────────────────────────────────────────╯
 ```
