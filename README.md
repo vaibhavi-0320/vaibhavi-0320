@@ -12,6 +12,15 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </div>
+</div>
+<!-- PIXEL ART ROW: Gengar (purple ghost) + Umbreon (dark) + Spiritomb (ghost/dark) -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="60" title="Gengar"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/197.gif" width="60" title="Umbreon"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/442.gif" width="60" title="Spiritomb"/>
+</div>
 
 <br/>
 
@@ -76,18 +85,40 @@ Blockchain student at SPPU. I build on-chain, Stellar/Soroban, Midnight Network 
 ---
 
 ### `✦` Tech Stack
-
+ 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=solidity,rust,ts,js,py&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,supabase,tailwind,vercel&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,hardhat,nodejs&theme=dark" />
-
+**⛓ Blockchain & Languages**
+ 
+| Technology | Badge | Level |
+|:----------:|:-----:|:-----:|
+| Solidity | ![Solidity](https://img.shields.io/badge/Solidity-4B0082?style=for-the-badge&logo=solidity&logoColor=white) | `Intermediate` |
+| Rust | ![Rust](https://img.shields.io/badge/Rust-6a0dad?style=for-the-badge&logo=rust&logoColor=white) | `Familiar` |
+| TypeScript | ![TypeScript](https://img.shields.io/badge/TypeScript-3b0070?style=for-the-badge&logo=typescript&logoColor=white) | `Intermediate` |
+| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-2d0057?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | `Proficient` |
+| Python | ![Python](https://img.shields.io/badge/Python-1a0033?style=for-the-badge&logo=python&logoColor=9b6dff) | `Familiar` |
+ 
+**🌐 Frameworks & Platforms**
+ 
+| Technology | Badge | Level |
+|:----------:|:-----:|:-----:|
+| Next.js | ![Next.js](https://img.shields.io/badge/Next.js-0d001a?style=for-the-badge&logo=nextdotjs&logoColor=d4aaff) | `Proficient` |
+| React | ![React](https://img.shields.io/badge/React-1a0033?style=for-the-badge&logo=react&logoColor=9b6dff) | `Proficient` |
+| Supabase | ![Supabase](https://img.shields.io/badge/Supabase-0d001a?style=for-the-badge&logo=supabase&logoColor=d4aaff) | `Intermediate` |
+| Tailwind CSS | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1a0033?style=for-the-badge&logo=tailwindcss&logoColor=9b6dff) | `Proficient` |
+| Vercel | ![Vercel](https://img.shields.io/badge/Vercel-0d001a?style=for-the-badge&logo=vercel&logoColor=d4aaff) | `Proficient` |
+ 
+**🛠 Tools**
+ 
+| Technology | Badge | Level |
+|:----------:|:-----:|:-----:|
+| Git | ![Git](https://img.shields.io/badge/Git-2d0057?style=for-the-badge&logo=git&logoColor=white) | `Familiar` |
+| GitHub | ![GitHub](https://img.shields.io/badge/GitHub-0d001a?style=for-the-badge&logo=github&logoColor=d4aaff) | `Proficient` |
+| VS Code | ![VS Code](https://img.shields.io/badge/VS_Code-1a0033?style=for-the-badge&logo=visualstudiocode&logoColor=9b6dff) | `Daily Driver` |
+| Hardhat | ![Hardhat](https://img.shields.io/badge/Hardhat-2d0057?style=for-the-badge&logo=ethereum&logoColor=c9b8ff) | `Familiar` |
+| Node.js | ![Node.js](https://img.shields.io/badge/Node.js-1a0033?style=for-the-badge&logo=nodedotjs&logoColor=9b6dff) | `Familiar` |
+ 
 </div>
-
-
+---
 ### `✦` Blockchain Mastery
 
 <div align="center">
@@ -127,7 +158,7 @@ AI-powered invoice financing platform. Bloomberg meets Duolingo for SME finance.
 </td>
 <td width="33%" valign="top">
 
-**`🚧` Vault**
+**`🚧` Vaultis**
 
 ```
 ┌─────────────────────────┐
@@ -190,7 +221,13 @@ Decentralized freelance escrow on Stellar/Soroban. *[→ Live](https://steller-f
 
 
 <div align="center">
-
+<!-- PIXEL ART FOOTER ROW -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="50" title="Gengar"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/442.gif" width="50" title="Spiritomb"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/197.gif" width="50" title="Umbreon"/>
+<br/><br/>
 <br/>
 
 ```
