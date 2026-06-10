@@ -91,8 +91,8 @@ Blockchain student at SPPU. I build on-chain, Stellar/Soroban, Midnight Network 
  
 | Technology | Level |
 |:-----------|:-----:|
-| ![Solidity](https://img.shields.io/badge/Solidity-4B0082?style=flat-square&logo=solidity&logoColor=white) Solidity | `Intermediate` |
-| ![Rust](https://img.shields.io/badge/Rust-6a0dad?style=flat-square&logo=rust&logoColor=white) Rust | `Intermediate` |
+| ![Solidity](https://img.shields.io/badge/Solidity-4B0082?style=flat-square&logo=solidity&logoColor=white) Solidity | `Proficient` |
+| ![Rust](https://img.shields.io/badge/Rust-6a0dad?style=flat-square&logo=rust&logoColor=white) Rust | `Learning` |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3b0070?style=flat-square&logo=typescript&logoColor=white) TypeScript | `Intermediate` |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-2d0057?style=flat-square&logo=javascript&logoColor=F7DF1E) JavaScript | `Proficient` |
 | ![Python](https://img.shields.io/badge/Python-1a0033?style=flat-square&logo=python&logoColor=9b6dff) Python | `Familiar` |
@@ -104,7 +104,7 @@ Blockchain student at SPPU. I build on-chain, Stellar/Soroban, Midnight Network 
 | ![Git](https://img.shields.io/badge/Git-2d0057?style=flat-square&logo=git&logoColor=white) Git | `Proficient` |
 | ![GitHub](https://img.shields.io/badge/GitHub-0d001a?style=flat-square&logo=github&logoColor=d4aaff) GitHub | `Proficient` |
 | ![VS Code](https://img.shields.io/badge/VS_Code-1a0033?style=flat-square&logo=visualstudiocode&logoColor=9b6dff) VS Code | `Daily Driver` |
-| ![Hardhat](https://img.shields.io/badge/Hardhat-2d0057?style=flat-square&logo=ethereum&logoColor=c9b8ff) Hardhat | `Intermediate` |
+| ![Hardhat](https://img.shields.io/badge/Hardhat-2d0057?style=flat-square&logo=ethereum&logoColor=c9b8ff) Hardhat | `Familiar` |
 | ![Node.js](https://img.shields.io/badge/Node.js-1a0033?style=flat-square&logo=nodedotjs&logoColor=9b6dff) Node.js | `Familiar` |
  
 </td>
@@ -114,7 +114,7 @@ Blockchain student at SPPU. I build on-chain, Stellar/Soroban, Midnight Network 
 | Technology | Level |
 |:-----------|:-----:|
 | ![Next.js](https://img.shields.io/badge/Next.js-0d001a?style=flat-square&logo=nextdotjs&logoColor=d4aaff) Next.js | `Proficient` |
-| ![React](https://img.shields.io/badge/React-1a0033?style=flat-square&logo=react&logoColor=9b6dff) React | `Proficient` |
+| ![React](https://img.shields.io/badge/React-1a0033?style=flat-square&logo=react&logoColor=9b6dff) React | `Familiar` |
 | ![Supabase](https://img.shields.io/badge/Supabase-0d001a?style=flat-square&logo=supabase&logoColor=d4aaff) Supabase | `Intermediate` |
 | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1a0033?style=flat-square&logo=tailwindcss&logoColor=9b6dff) Tailwind CSS | `Proficient` |
 | ![Vercel](https://img.shields.io/badge/Vercel-0d001a?style=flat-square&logo=vercel&logoColor=d4aaff) Vercel | `Proficient` |
@@ -125,7 +125,7 @@ Blockchain student at SPPU. I build on-chain, Stellar/Soroban, Midnight Network 
 |:-----------|:-----:|
 | ![Stellar](https://img.shields.io/badge/Stellar%2FSoroban-4B0082?style=flat-square&logo=stellar&logoColor=white) Stellar / Soroban | `Advanced` |
 | ![Ethereum](https://img.shields.io/badge/Ethereum-2d0057?style=flat-square&logo=ethereum&logoColor=d4aaff) Ethereum / EVM | `Intermediate` |
-| ![Midnight](https://img.shields.io/badge/Midnight_Network-0d001a?style=flat-square&logo=blockchain.com&logoColor=9b6dff) Midnight Network | `Exploring` |
+| ![Midnight](https://img.shields.io/badge/Midnight_Network-0d001a?style=flat-square&logo=blockchain.com&logoColor=9b6dff) Midnight Network | `Familiar` |
  
 </td>
 </tr>
@@ -179,12 +179,12 @@ AI-powered invoice financing platform. Bloomberg meets Duolingo for SME finance.
 │  type    : Inheritance  │
 │  chain   : Blockchain   │
 │                         │
-│  // Trustless onchain   │
+│  // Trustless on-chain  │
 │  // inheritance system  │
 └─────────────────────────┘
 ```
 
-Blockchain-based inheritance management — secure, trustless, and fully onchain.
+Blockchain-based inheritance management — secure, trustless, and fully on-chain.
 
 </td>
 <td width="33%" valign="top">
@@ -240,12 +240,12 @@ Decentralized freelance escrow on Stellar/Soroban. *[→ Live](https://steller-f
 
 
 ```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                                                              ║
-  ║   "The decentralized world isn't built in a day.             ║
-  ║    But I'm working on it."                                   ║
-  ║                                                              ║
-  ╚══════════════════════════════════════════════════════════════╝
+ ╔══════════════════════════════════════════════════════════════╗
+ ║                                                              ║
+ ║  Learning Web3. Shipping projects.                           ║
+ ║  Figuring life out along the way.                            ║
+ ║                                                              ║
+ ╚══════════════════════════════════════════════════════════════╝
 ```
 
 ![](https://img.shields.io/badge/Blockchain_Student-Not_Just_A_Vibe-4B0082?style=flat-square&labelColor=0d001a)
