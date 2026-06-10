@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d0015,30:1a0033,60:3d0080,80:1a0033,100:0d0015&section=header&text=Vaibhavi%20Agale&fontSize=42&fontColor=d4aaff&animation=fadeIn&fontAlignY=55&desc=Blockchain%20Student%20%E2%80%A2%20She%2FHer%20%E2%80%A2%20Pune%20%E2%80%A2%20Building%20Onchain&descSize=13&descAlignY=78&descColor=9966cc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d0015,30:1a0033,60:3d0080,80:1a0033,100:0d0015&section=header&text=Vaibhavi%20Agale&fontSize=42&fontColor=d4aaff&animation=fadeIn&fontAlignY=55&desc=Blockchain%20Student%20%E2%80%A2%20Pune%20%E2%80%A2%20Building%20Onchain&descSize=13&descAlignY=78&descColor=9966cc" width="100%"/>
 </div>
 
 <div align="center">
