@@ -240,12 +240,12 @@ Decentralized freelance escrow on Stellar/Soroban. *[→ Live](https://steller-f
 
 
 ```
- ╔══════════════════════════════════════════════════════════════╗
- ║                                                              ║
- ║  Learning Web3. Shipping projects.                           ║
- ║  Figuring life out along the way.                            ║
- ║                                                              ║
- ╚══════════════════════════════════════════════════════════════╝
+          ╔══════════════════════════════════════════════════════════════╗
+          ║                                                              ║
+          ║  Learning Web3. Shipping projects.                           ║
+          ║  Figuring life out along the way.                            ║
+          ║                                                              ║
+          ╚══════════════════════════════════════════════════════════════╝
 ```
 
 ![](https://img.shields.io/badge/Blockchain_Student-Not_Just_A_Vibe-4B0082?style=flat-square&labelColor=0d001a)
