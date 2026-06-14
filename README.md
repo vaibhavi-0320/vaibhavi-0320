@@ -259,7 +259,11 @@ Decentralized freelance escrow on Stellar/Soroban. *[→ Live](https://steller-f
 ![Profile Views](https://komarev.com/ghpvc/?username=vaibhavi-0320&color=6a0dad&style=for-the-badge&label=Profile+Views)
 
 </div>
+<div align="center">
 
+[![Play with BHAVI](https://img.shields.io/badge/Friends%20call%20me-%239b59ff?style=for-the-badge)](https://vaibhavi-0320.github.io/vaibhavi-0320/bhavi-grid.html)
+
+</div>
 <br/>
 
 <div align="center">
