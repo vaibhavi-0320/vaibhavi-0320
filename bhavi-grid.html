@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BHAVI</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body {
+    width: 100%; height: 100%;
+    background: #0d001a;
+    display: flex; align-items: center; justify-content: center;
+  }
+  #wrap {
+    width: min(100vw, 100vh);
+    height: min(100vw, 100vh);
+    position: relative;
+    background: #0d001a;
+    overflow: hidden;
+    cursor: none;
+  }
+  canvas {
+    display: block; width: 100%; height: 100%;
+    position: absolute; top: 0; left: 0;
+  }
+</style>
+</head>
+<body>
+<div id="wrap"><canvas id="c"></canvas></div>
+<script>
+const wrap = document.getElementById('wrap');
+const canvas = document.getElementById('c');
+const ctx = canvas.getContext('2d');
+
+const GLYPHS = {
+  B: [
+    [1,1,1,1,0,0,0],
+    [1,0,0,0,1,0,0],
+    [1,0,0,0,1,0,0],
+    [1,1,1,1,0,0,0],
+    [1,0,0,0,0,1,0],
+    [1,0,0,0,0,1,0],
+    [1,0,0,0,0,1,0],
+    [1,0,0,0,1,0,0],
+    [1,1,1,1,0,0,0],
+  ],
+  H: [
+    [1,0,0,0,0,0,1],
+    [1,0,0,0,0,0,1],
+    [1,0,0,0,0,0,1],
+    [1,0,0,0,0,0,1],
+    [1,1,1,1,1,1,1],
+    [1,0,0,0,0,0,1],
+    [1,0,0,0,0,0,1],
+    [1,0,0,0,0,0,1],
+    [1,0,0,0,0,0,1],
+  ],
+  A: [
+    [0,0,1,1,1,0,0],
+    [0,1,0,0,0,1,0],
+    [1,0,0,0,0,0,1],
+    [1,0,0,0,0,0,1],
+    [1,1,1,1,1,1,1],
+    [1,0,0,0,0,0,1],
+    [1,0,0,0,0,0,1],
+    [1,0,0,0,0,0,1],
+    [1,0,0,0,0,0,1],
+  ],
+  V: [
+    [1,0,0,0,0,0,1],
+    [1,0,0,0,0,0,1],
+    [1,0,0,0,0,0,1],
+    [0,1,0,0,0,1,0],
+    [0,1,0,0,0,1,0],
+    [0,0,1,0,1,0,0],
+    [0,0,1,0,1,0,0],
+    [0,0,0,1,0,0,0],
+    [0,0,0,1,0,0,0],
+  ],
+  I: [
+    [1,1,1,1,1,1,1],
+    [0,0,0,1,0,0,0],
+    [0,0,0,1,0,0,0],
+    [0,0,0,1,0,0,0],
+    [0,0,0,1,0,0,0],
+    [0,0,0,1,0,0,0],
+    [0,0,0,1,0,0,0],
+    [0,0,0,1,0,0,0],
+    [1,1,1,1,1,1,1],
+  ],
+};
+
+const WORD      = 'BHAVI';
+const GLYPH_W   = 7;
+const GLYPH_H   = 9;
+const GLYPH_GAP = 2;
+const MARGIN_X  = 3;
+const MARGIN_Y  = 3;
+
+// Grid is SQUARE: COLS == ROWS
+const COLS = WORD.length * GLYPH_W + (WORD.length - 1) * GLYPH_GAP + MARGIN_X * 2; // 46
+const ROWS = COLS; // force square grid so cells are squares
+
+// Centre glyphs vertically inside the square grid
+const V_OFFSET = Math.floor((ROWS - GLYPH_H) / 2);
+
+const LETTER_REVEAL_MS = 900;
+const RADIUS   = 32;
+const STRENGTH = 20;
+const FRICTION = 0.80;
+const RESTORE  = 0.13;
+
+const BG        = '#0d001a';
+const TEXT_BASE = [155, 89, 255];
+const TEXT_GLOW = [212, 170, 255];
+const CURSOR_C  = '#e8c8ff';
+
+let W, H, cellSize;
+let mouse = { x: -9999, y: -9999 };
+let cells = [];
+let activeLetters = 0;
+let lastReveal = 0;
+
+// Build pixel sets per letter
+const letterPixelSets = [];
+WORD.split('').forEach((ch, li) => {
+  const set = new Set();
+  const offC = MARGIN_X + li * (GLYPH_W + GLYPH_GAP);
+  const offR = V_OFFSET;
+  GLYPHS[ch].forEach((row, ri) => {
+    row.forEach((bit, ci) => {
+      if (bit) set.add(`${offC + ci},${offR + ri}`);
+    });
+  });
+  letterPixelSets.push(set);
+});
+
+function resize() {
+  const r = wrap.getBoundingClientRect();
+  W = r.width; H = r.height;
+  canvas.width  = W * devicePixelRatio;
+  canvas.height = H * devicePixelRatio;
+  ctx.scale(devicePixelRatio, devicePixelRatio);
+  // single cell size — same for width and height = always square
+  cellSize = W / COLS;
+  buildCells();
+}
+
+function buildCells() {
+  cells = [];
+  for (let r = 0; r < ROWS; r++) {
+    for (let c = 0; c < COLS; c++) {
+      cells.push({
+        c, r,
+        bx: c * cellSize,
+        by: r * cellSize,
+        ox: 0, oy: 0, vx: 0, vy: 0,
+        visible: false,
+        isText: false,
+        letterIdx: -1,
+      });
+    }
+  }
+  letterPixelSets.forEach((set, li) => {
+    set.forEach(key => {
+      const [c, r] = key.split(',').map(Number);
+      const idx = r * COLS + c;
+      if (cells[idx]) {
+        cells[idx].isText    = true;
+        cells[idx].letterIdx = li;
+      }
+    });
+  });
+  cells.forEach(cell => { if (!cell.isText) cell.visible = true; });
+}
+
+function lerp(a, b, t) { return a + (b - a) * t; }
+
+function update(now) {
+  if (activeLetters < WORD.length && now - lastReveal > LETTER_REVEAL_MS) {
+    lastReveal = now;
+    cells.forEach(cell => {
+      if (cell.letterIdx === activeLetters) cell.visible = true;
+    });
+    activeLetters++;
+  }
+
+  cells.forEach(cell => {
+    if (!cell.visible) return;
+    const cx   = cell.bx + cellSize / 2 + cell.ox;
+    const cy   = cell.by + cellSize / 2 + cell.oy;
+    const dx   = cx - mouse.x;
+    const dy   = cy - mouse.y;
+    const dist = Math.sqrt(dx * dx + dy * dy);
+
+    if (dist < RADIUS && dist > 0.5) {
+      const force = (1 - (dist / RADIUS) ** 2) * STRENGTH;
+      cell.vx += (dx / dist) * force;
+      cell.vy += (dy / dist) * force;
+    }
+
+    cell.vx -= cell.ox * RESTORE;
+    cell.vy -= cell.oy * RESTORE;
+    cell.vx *= FRICTION;
+    cell.vy *= FRICTION;
+    cell.ox += cell.vx;
+    cell.oy += cell.vy;
+  });
+}
+
+function draw() {
+  ctx.fillStyle = BG;
+  ctx.fillRect(0, 0, W, H);
+
+  const pad = 1.1;
+  const s   = cellSize - pad * 2;
+
+  cells.forEach(cell => {
+    if (!cell.visible) return;
+
+    const x    = cell.bx + cell.ox + pad;
+    const y    = cell.by + cell.oy + pad;
+    const cx2  = cell.bx + cellSize / 2 + cell.ox;
+    const cy2  = cell.by + cellSize / 2 + cell.oy;
+    const dist = Math.sqrt((cx2 - mouse.x) ** 2 + (cy2 - mouse.y) ** 2);
+    const t    = Math.max(0, 1 - dist / RADIUS);
+
+    if (cell.isText && cell.letterIdx < activeLetters) {
+      const rv = Math.round(lerp(TEXT_BASE[0], TEXT_GLOW[0], t));
+      const gv = Math.round(lerp(TEXT_BASE[1], TEXT_GLOW[1], t));
+      const bv = Math.round(lerp(TEXT_BASE[2], TEXT_GLOW[2], t));
+      ctx.fillStyle = `rgb(${rv},${gv},${bv})`;
+    } else if (!cell.isText) {
+      const v1 = Math.round(lerp(0x1e, 0x3a, t));
+      const v2 = Math.round(lerp(0x40, 0x80, t));
+      ctx.fillStyle = `rgb(${v1},0,${v2})`;
+    } else {
+      return;
+    }
+
+    // draw as a square using s × s
+    ctx.fillRect(x, y, s, s);
+  });
+
+  if (mouse.x > 0 && mouse.x < W + 50) {
+    ctx.beginPath();
+    ctx.arc(mouse.x, mouse.y, 3, 0, Math.PI * 2);
+    ctx.fillStyle = CURSOR_C;
+    ctx.fill();
+  }
+}
+
+function loop(now) { update(now); draw(); requestAnimationFrame(loop); }
+
+wrap.addEventListener('mousemove', e => {
+  const r = wrap.getBoundingClientRect();
+  mouse.x = e.clientX - r.left;
+  mouse.y = e.clientY - r.top;
+});
+wrap.addEventListener('mouseleave', () => { mouse.x = -9999; mouse.y = -9999; });
+wrap.addEventListener('touchmove', e => {
+  e.preventDefault();
+  const r = wrap.getBoundingClientRect();
+  mouse.x = e.touches[0].clientX - r.left;
+  mouse.y = e.touches[0].clientY - r.top;
+}, { passive: false });
+wrap.addEventListener('touchend', () => { mouse.x = -9999; mouse.y = -9999; });
+
+resize();
+new ResizeObserver(resize).observe(wrap);
+lastReveal = performance.now();
+requestAnimationFrame(loop);
+</script>
+</body>
+</html>
